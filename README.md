@@ -2,7 +2,7 @@
 Auto Installer LAMP on Ubuntu
 
 ```
-wget --no-cache -O - https://raw.githubusercontent.com/soheilas/LAMP/master/installer.sh | bash")
+wget --no-cache -O - https://gist.githubusercontent.com/soheilas/cc045779b6d2493c234561b23f826725/raw/f55aae74bff8a780acf5c19b254aa724c2b0ebab/lamp-installer.sh | bash")
 ```
 ## Next Steps
 
